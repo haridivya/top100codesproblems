@@ -1,6 +1,8 @@
+'''
 #There are 3 way to find out the Greatest of Two Number
 #Method 1:
 #by using the if-else condition 
+'''
 num1=int(input())#10
 num2=int(input())#12
 if num1>num2:#10>12 False
